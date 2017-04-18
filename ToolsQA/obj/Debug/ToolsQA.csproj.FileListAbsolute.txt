@@ -1,0 +1,26 @@
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\ToolsQA.exe.config
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\ToolsQA.exe
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\ToolsQA.pdb
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\nunit.framework.dll
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\WebDriver.dll
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\nunit.framework.xml
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\WebDriver.xml
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\obj\Debug\ToolsQA.exe
+c:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\obj\Debug\ToolsQA.pdb
+C:\Users\amarchenko.LAN\Documents\Visual Studio 2015\Projects\ToolsQA\ToolsQA\obj\Debug\ToolsQA.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\App.config
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\NLog.config
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\ToolsQA.exe.config
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\ToolsQA.exe
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\ToolsQA.pdb
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\NLog.dll
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\nunit.framework.dll
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\WebDriver.dll
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\WebDriver.Support.dll
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\NLog.xml
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\nunit.framework.xml
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\WebDriver.xml
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\WebDriver.Support.xml
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\obj\Debug\ToolsQA.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\obj\Debug\ToolsQA.exe
+C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\obj\Debug\ToolsQA.pdb
