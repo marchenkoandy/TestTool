@@ -9,7 +9,7 @@ namespace ToolsQA.Tests
 {
     class NUnitTests
     {
-        //private static Logger logger = LogManager.GetCurrentClassLogger();
+        //private static Logger logger = LogManager.GetCurrentClassLogger(); //
         Logger logger = LogManager.GetLogger("MyClassName");
         private IWebDriver _driver;
         [SetUp]
