@@ -6,6 +6,7 @@
 <li>GoogleTest1</li>
 <li>GoogleTest2</li>
 </ul>
+<p>To implement Parralel tests running twotests were cloned (co actually 4 tests) in 2 TestFixtures</p>
 <p>During implementation were used:</p>
 <ul>
 <li>Visual Studio 2015</li>
