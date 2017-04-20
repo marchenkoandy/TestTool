@@ -144,6 +144,7 @@ namespace ToolsQA.PageObjects
                 Console.Write(";    Header " + lToPrint[i].Header);
                 Console.Write(";    Url " + lToPrint[i].Url);
                 Console.WriteLine(";    Text " + lToPrint[i].Text);
+                
             }
             Console.WriteLine(Delimiter);
             Console.WriteLine("");
