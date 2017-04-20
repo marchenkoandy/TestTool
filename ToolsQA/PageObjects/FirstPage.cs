@@ -122,13 +122,13 @@ namespace ToolsQA.PageObjects
                             break;
                         }
                     }
-                    if (iPage < iPages)
+                    if ((iPage < iPages) && sOut=="")//AM 04/20/2017 fixed logic error
                     {
                         NextPage.Click();
                         WebDriverWait wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(ExplicitlyWait));
                         wait.Until(ExpectedConditions.TextToBePresentInElementLocated(By.XPath(xPathCurrentPage), (iPage + 1).ToString()));
                     }
-                } while (++iPage <= iPages);
+                } while ((++iPage <= iPages) && sOut == "");
                 
             }
             return sOut;

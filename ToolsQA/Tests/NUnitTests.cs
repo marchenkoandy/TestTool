@@ -23,6 +23,7 @@ namespace ToolsQA.Tests
         public void TearDownTest() { }
 
         [Test]
+        [Repeat(1)]
         public void GoogleTest1()
         {
             //Test #1. Open Google. Search for “automation”. Open the first link on search results page.
