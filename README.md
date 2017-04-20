@@ -6,6 +6,7 @@
 <li>GoogleTest1</li>
 <li>GoogleTest2</li>
 </ul>
+<p>To implement Parralel tests running two tests were cloned (so actually 4 tests: 2 - GoogleTest1 and 2 - GoogleTest2) in 2 TestFixtures</p>
 <p>During implementation were used:</p>
 <ul>
 <li>Visual Studio 2015</li>
@@ -14,4 +15,5 @@
 <li><b>NuGet</b> Package Manager</li>
 <li><b>System.Configuration</b> for parametrisation</li>
 <li><b>NLog</b> logger</li>
+<li><b>NUnit parallelization</b></li>
 </ul>
