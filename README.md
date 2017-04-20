@@ -14,4 +14,5 @@
 <li><b>NuGet</b> Package Manager</li>
 <li><b>System.Configuration</b> for parametrisation</li>
 <li><b>NLog</b> logger</li>
+<li><b>NUnit parallelization</b></li>
 </ul>
