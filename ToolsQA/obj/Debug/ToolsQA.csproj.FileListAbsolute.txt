@@ -24,3 +24,19 @@ C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\bin\Debug\WebDrive
 C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\obj\Debug\ToolsQA.csprojResolveAssemblyReference.cache
 C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\obj\Debug\ToolsQA.exe
 C:\Users\user\Source\Repos\ToolsQA — копия (2)\ToolsQA\obj\Debug\ToolsQA.pdb
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\App.config
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\NLog.config
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\ToolsQA.exe.config
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\ToolsQA.exe
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\ToolsQA.pdb
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\NLog.dll
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\nunit.framework.dll
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\WebDriver.dll
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\WebDriver.Support.dll
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\NLog.xml
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\nunit.framework.xml
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\WebDriver.xml
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\bin\Debug\WebDriver.Support.xml
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\obj\Debug\ToolsQA.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\obj\Debug\ToolsQA.exe
+C:\Users\user\Source\Repos\GitRepos\TestTool\ToolsQA\obj\Debug\ToolsQA.pdb

@@ -12,7 +12,7 @@ namespace ToolsQA.Tests
     [TestFixture]
     [Parallelizable]    
     [Author("Marchenko Andy", "marchenkoandy@gmail.com")]
-    //[Ignore("Ignore a fixture")]
+    //[Ignore("Ignore a fixture")] 
     class NUnitTests
     {
         [SetUp]
