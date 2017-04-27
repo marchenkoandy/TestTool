@@ -72,5 +72,15 @@ namespace ToolsQA.Tests
             }
             Assert.True(bPASSED);
         }
+        public void Test3_YandexTest()
+        {
+            _driver = new DriverRoutine().Create();
+            new YandexFirstPage(_driver).GoToLoginPage();
+            new YandexLoginPage(_driver).EnterCredentials();
+            new YandexMainPage(_driver).onWriteEmail();            
+            new YandexEmailPage(_driver).CreateEmail("mar-ua-ua@yandex.ru", "HelloWorld","MyLetter");
+            new YandexMainPage(_driver).OnLogOut();
+            new DriverRoutine().Dismiss(_driver);
+        }
     }
 }

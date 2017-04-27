@@ -119,6 +119,7 @@ namespace ToolsQA.PageObjects
                         if (sCurrent.Contains(sDomainTosaerch))
                         {
                             sOut = sCurrent;
+                            Console.WriteLine("Founded at page " + iPage);
                             break;
                         }
                     }
@@ -131,6 +132,7 @@ namespace ToolsQA.PageObjects
                 } while ((++iPage <= iPages) && sOut == "");
                 
             }
+
             return sOut;
         }
 

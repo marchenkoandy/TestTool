@@ -68,4 +68,16 @@ namespace ToolsQA.Tests
             new TestsLibrary().Test2_GoogleTest();
         }
     }
+
+    [TestFixture]
+    [Parallelizable]
+    [Author("Marchenko Andy", "marchenkoandy@gmail.com")]
+    class NUnitTests_YandexLogin
+    {
+        [Test]
+        public void YandexLoginTest()
+        {
+            new TestsLibrary().Test3_YandexTest();
+        }
+    }
 }
